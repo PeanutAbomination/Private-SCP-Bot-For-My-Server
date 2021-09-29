@@ -1,0 +1,15 @@
+{
+  "name": "scp-bot-assets",
+  "version": "1.0.0",
+  "description": "Peanut's private SCP discord bot.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peanut",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^13.1.0"
+  }
+}
